@@ -2,8 +2,7 @@
 
 # All Around Passionate Programmer I code for fun
  
-- 👀 I’m interested in Cryptography
-- 🌱 I’m currently learning block chain technlogy
+- 👀 I’m interested in Game dev
 - 📫 How to reach me redstone9314@gmail.com
 - :wrench: I specialise in C++, Java, Php, React, Android and sql server
 - :memo: My youtube channel, Making project tutorials in various programming langauges https://www.youtube.com/channel/UCt44b2KMVZGnQNVX5tslnBA
